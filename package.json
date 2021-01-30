@@ -27,7 +27,7 @@
     "marked": "^0.8.0",
     "mobx": "^5.15.4",
     "mobx-react": "^6.1.8",
-    "next": "9.2.1",
+    "next": "9.3.3",
     "next-mobx-wrapper": "^0.4.0",
     "nprogress": "^0.2.0",
     "null-loader": "^3.0.0",
